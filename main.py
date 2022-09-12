@@ -34,4 +34,4 @@
 # print()
 # print(f"Квадратичное Мат.Ожидание == {SquaredFirstString}")
 # print(f"Дисперсия == {SquaredFirstString - MathematicalExpectation**2}")
-import proc, ui
+from data.app import ui, proc
