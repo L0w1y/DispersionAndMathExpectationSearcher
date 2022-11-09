@@ -1,4 +1,4 @@
-# Math Expression and Dispersion searcher
+# Math Expectation and Dispersion searcher
 
 ## How it works?
 > At the beginning, after starting the program - it will ask you to set the number of columns,
